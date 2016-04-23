@@ -1,4 +1,4 @@
-![Going-to-Sleep cover](https://raw.githubusercontent.com/danilovaz/Going-to-Sleep/master/logo.gif)
+![Going-to-Sleep cover](https://raw.githubusercontent.com/danilovaz/Going-to-Sleep/master/logo.png)
 
 # Going-to-Sleep
 > Going to Sleep - A log when I wake up and when I go to sleep.
