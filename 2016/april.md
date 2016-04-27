@@ -14,3 +14,6 @@
 
 ### day 26
 - :blush: `6:50` - :tired_face: `don't sleep yet`
+
+### day 27
+- :tired_face: `don't sleep last night`
