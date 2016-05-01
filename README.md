@@ -10,6 +10,7 @@ his repository is a way for me to control my hours of sleep. And understand how 
 ### 2016
 
 * :calendar: [April](https://github.com/danilovaz/Going-to-Sleep/blob/master/2016/april.md)
+* :calendar: [May](https://github.com/danilovaz/Going-to-Sleep/blob/master/2016/may.md)
 
 ## Lists organization
 
