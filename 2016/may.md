@@ -25,4 +25,4 @@
 - :blush: `10:00` - :sleeping: `01:15`
 
 ### day 09
-- :blush: `08:00`
+- :blush: `08:00` - :sleeping: `03:15`
